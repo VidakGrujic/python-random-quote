@@ -7,10 +7,6 @@ def mile():
 
   #print(quotes)
 
-  print("Djole" + str(2))
-
-
-
 
 if __name__== "__main__":
   mile()
